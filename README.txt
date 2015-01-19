@@ -1,3 +1,7 @@
+== Forked and Fixed
+
+change s.cert_chain = nil into s.cert_chain = [] to prevent warning "cert_chain must not be nil"
+
 == Installation
 
 # gem install tlsmail

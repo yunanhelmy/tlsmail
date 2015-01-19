@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = nil if s.respond_to? :required_rubygems_version=
   s.authors = ["zorio"]
-  s.cert_chain = nil
+  s.cert_chain = []
   s.date = %q{2007-03-17}
   s.description = %q{This library enables pop or smtp via ssl/tls by dynamically replacing these classes to these in ruby 1.9.}
   s.email = %q{zoriorz@gmail.com}
